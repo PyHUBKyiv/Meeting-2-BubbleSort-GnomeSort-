@@ -1,4 +1,4 @@
-Today on you meeting we've covered the next things:
+Today on our meeting we've covered the next things:
 
 1. Practice of TTD development
 ![alt tag](https://upload.wikimedia.org/wikipedia/commons/0/0b/TDD_Global_Lifecycle.png)
